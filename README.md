@@ -1,3 +1,5 @@
+<img width="2006" alt="Screenshot 2023-06-16 at 10 31 42" src="https://github.com/leonardtlauenstein/E-3/assets/108667934/6e9aa7f4-7ee8-4000-8f4a-c7b2556f3c9b">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
